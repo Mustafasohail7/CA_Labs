@@ -1,2 +1,2 @@
 # CA_Labs
-A single instruction processor designed according to RISC-V architecture
+A single cycle processor designed according to RISC-V architecture
